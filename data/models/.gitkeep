@@ -1,0 +1,5 @@
+# This directory stores trained models:
+# - .h5 (LSTM)
+# - .pkl (scalers, Bayesian traces)
+# - .json (XGBoost)
+# - .zip (RL agent)
