@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.h5
+*.pkl
+*.json
+*.zip
+logs/*.log
+data/raw/*.csv
+data/processed/*.csv
+.venv/
+venv/
+.vscode/
+.idea/
